@@ -5,3 +5,5 @@ edition = "2024"
 
 [dependencies]
 iced = "0.13.1"
+quick-xml = "0.38.4"
+reqwest = "0.12.24"
